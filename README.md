@@ -1,3 +1,11 @@
+# Deployed Link
+
+https://admin-dashboard-assignment-i5mwh7cy8-dinesh-deshidis-projects.vercel.app/
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
